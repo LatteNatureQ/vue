@@ -1,4 +1,4 @@
-# szhmqd25_vue
+
 
 ## Project setup
 ```
